@@ -1,2 +1,2 @@
-# Im-_y_multi
+# Im_y_multi
 Imágenes y multimedia 
